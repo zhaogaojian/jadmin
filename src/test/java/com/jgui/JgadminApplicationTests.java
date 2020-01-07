@@ -1,0 +1,13 @@
+package com.jgui;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JgadminApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
